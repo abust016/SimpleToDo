@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity {
             i.putExtra(Key_Item_Text, items.get(position));
             i.putExtra(Key_Item_Position, position);
             //display the activity
-            startActivityForResult(i, Edit_Text_Code);
+            startActivityForResult(i, Edit_Text_Code); //why is the method scratched off?
         }
     };
         itemsAdapter = new ItemsAdapter(items, onLongClickListener, onClickListener);
