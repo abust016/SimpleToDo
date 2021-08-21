@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I had some trouble with unadded dependencies (I had other troubles but this one stood out). I had to manually add them, when I assumed they should already be present. The version of the program that I downloaded was not in sync (was not the same as) the one figured in the tutorial, but I managed to get down to build the app nevertheless, with some help from Aldo!
+I had some trouble with unadded dependencies (I had other troubles but this one stood out). I had to manually add a few, when I assumed they should've already been present. The version of the program that I downloaded was not in sync (was not the same as) the one figured in the tutorial, but I managed to get down to build the app nevertheless, with some help from Aldo!
 
 ## License
 
