@@ -32,8 +32,8 @@ RecyclerView rvItems;
 
 
         items = new ArrayList<>();
-        items.add("Buy milk");
-        items.add("Go to the gym");
+        items.add("Buy milk!");
+        items.add("Go to the gym!");
         items.add("Have fun!");
 
         ItemsAdapter itemsAdapter= new ItemsAdapter(items);
